@@ -12,7 +12,7 @@ O conteúdo foi estruturado de forma didática, progressiva e aprofundada, abord
 
 
 
-Contexto histórico do século XVII
+**Contexto histórico do século XVII**
 
 Contrarreforma e influência da Igreja Católica
 
